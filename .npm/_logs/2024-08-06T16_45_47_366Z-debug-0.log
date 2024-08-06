@@ -1,0 +1,116 @@
+0 verbose cli /home/pranavjha0002/.nvm/versions/node/v20.16.0/bin/node /home/pranavjha0002/.nvm/versions/node/v20.16.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:/home/pranavjha0002/.nvm/versions/node/v20.16.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/pranavjha0002/.npm/_cacache/tmp/git-cloneXXXXXXF91gfJ/.npmrc
+5 silly config load:file:/home/pranavjha0002/.npmrc
+6 silly config load:file:/home/pranavjha0002/.nvm/versions/node/v20.16.0/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--force" "--cache" "/home/pranavjha0002/.npm" "--prefer-offline" "false" "--prefer-online" "false" "--offline" "false" "--no-progress" "--no-save" "--no-audit" "--include" "dev" "--include" "peer" "--include" "optional" "--no-package-lock-only" "--no-dry-run"
+9 verbose logfile logs-max:10 dir:/home/pranavjha0002/.npm/_logs/2024-08-06T16_45_47_366Z-
+10 verbose logfile /home/pranavjha0002/.npm/_logs/2024-08-06T16_45_47_366Z-debug-0.log
+11 warn using --force Recommended protections disabled.
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile start cleaning logs, removing 1 files
+14 silly logfile done cleaning log files
+15 silly idealTree buildDeps
+16 silly reify moves {}
+17 verbose reify failed optional dependency /home/pranavjha0002/.npm/_cacache/tmp/git-cloneXXXXXXF91gfJ/node_modules/fsevents
+18 silly reify mark deleted [
+18 silly reify   '/home/pranavjha0002/.npm/_cacache/tmp/git-cloneXXXXXXF91gfJ/node_modules/fsevents'
+18 silly reify ]
+19 silly tarball no local data for terser@https://registry.npmjs.org/terser/-/terser-5.16.6.tgz. Extracting by manifest.
+20 silly tarball no local data for supports-preserve-symlinks-flag@https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz. Extracting by manifest.
+21 silly tarball no local data for smob@https://registry.npmjs.org/smob/-/smob-0.0.6.tgz. Extracting by manifest.
+22 silly tarball no local data for serialize-javascript@https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-6.0.1.tgz. Extracting by manifest.
+23 silly tarball no local data for rollup@https://registry.npmjs.org/rollup/-/rollup-3.20.0.tgz. Extracting by manifest.
+24 silly tarball no local data for is-module@https://registry.npmjs.org/is-module/-/is-module-1.0.0.tgz. Extracting by manifest.
+25 silly tarball no local data for is-core-module@https://registry.npmjs.org/is-core-module/-/is-core-module-2.9.0.tgz. Extracting by manifest.
+26 silly tarball no local data for is-builtin-module@https://registry.npmjs.org/is-builtin-module/-/is-builtin-module-3.2.0.tgz. Extracting by manifest.
+27 silly tarball no local data for function-bind@https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz. Extracting by manifest.
+28 silly tarball no local data for estree-walker@https://registry.npmjs.org/estree-walker/-/estree-walker-2.0.2.tgz. Extracting by manifest.
+29 silly tarball no local data for deepmerge@https://registry.npmjs.org/deepmerge/-/deepmerge-4.2.2.tgz. Extracting by manifest.
+30 silly tarball no local data for commander@https://registry.npmjs.org/commander/-/commander-2.20.3.tgz. Extracting by manifest.
+31 silly tarball no local data for builtin-modules@https://registry.npmjs.org/builtin-modules/-/builtin-modules-3.3.0.tgz. Extracting by manifest.
+32 silly tarball no local data for acorn@https://registry.npmjs.org/acorn/-/acorn-8.8.2.tgz. Extracting by manifest.
+33 silly tarball no local data for @types/resolve@https://registry.npmjs.org/@types/resolve/-/resolve-1.20.2.tgz. Extracting by manifest.
+34 silly tarball no local data for @types/estree@https://registry.npmjs.org/@types/estree/-/estree-1.0.0.tgz. Extracting by manifest.
+35 silly tarball no local data for @rollup/pluginutils@https://registry.npmjs.org/@rollup/pluginutils/-/pluginutils-5.0.2.tgz. Extracting by manifest.
+36 silly tarball no local data for @rollup/plugin-terser@https://registry.npmjs.org/@rollup/plugin-terser/-/plugin-terser-0.4.0.tgz. Extracting by manifest.
+37 silly tarball no local data for @rollup/plugin-node-resolve@https://registry.npmjs.org/@rollup/plugin-node-resolve/-/plugin-node-resolve-15.0.1.tgz. Extracting by manifest.
+38 silly tarball no local data for @jridgewell/trace-mapping@https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.17.tgz. Extracting by manifest.
+39 silly tarball no local data for @jridgewell/sourcemap-codec@https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz. Extracting by manifest.
+40 silly tarball no local data for @jridgewell/source-map@https://registry.npmjs.org/@jridgewell/source-map/-/source-map-0.3.2.tgz. Extracting by manifest.
+41 silly tarball no local data for @jridgewell/set-array@https://registry.npmjs.org/@jridgewell/set-array/-/set-array-1.1.2.tgz. Extracting by manifest.
+42 silly tarball no local data for @jridgewell/resolve-uri@https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz. Extracting by manifest.
+43 silly tarball no local data for @jridgewell/gen-mapping@https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz. Extracting by manifest.
+44 silly tarball no local data for resolve@https://registry.npmjs.org/resolve/-/resolve-1.22.1.tgz. Extracting by manifest.
+45 silly tarball no local data for has@https://registry.npmjs.org/has/-/has-1.0.3.tgz. Extracting by manifest.
+46 http fetch GET 200 https://registry.npmjs.org/is-builtin-module/-/is-builtin-module-3.2.0.tgz 530ms (cache miss)
+47 http fetch GET 200 https://registry.npmjs.org/builtin-modules/-/builtin-modules-3.3.0.tgz 531ms (cache miss)
+48 http fetch GET 200 https://registry.npmjs.org/is-module/-/is-module-1.0.0.tgz 547ms (cache miss)
+49 http fetch GET 200 https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz 556ms (cache miss)
+50 http fetch GET 200 https://registry.npmjs.org/@types/resolve/-/resolve-1.20.2.tgz 549ms (cache miss)
+51 http fetch GET 200 https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-6.0.1.tgz 559ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz 560ms (cache miss)
+53 http fetch GET 200 https://registry.npmjs.org/@types/estree/-/estree-1.0.0.tgz 554ms (cache miss)
+54 http fetch GET 200 https://registry.npmjs.org/has/-/has-1.0.3.tgz 486ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/commander/-/commander-2.20.3.tgz 571ms (cache miss)
+56 http fetch GET 200 https://registry.npmjs.org/deepmerge/-/deepmerge-4.2.2.tgz 578ms (cache miss)
+57 http fetch GET 200 https://registry.npmjs.org/@jridgewell/set-array/-/set-array-1.1.2.tgz 570ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/is-core-module/-/is-core-module-2.9.0.tgz 589ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/smob/-/smob-0.0.6.tgz 596ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz 588ms (cache miss)
+61 http fetch GET 200 https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz 596ms (cache miss)
+62 http fetch GET 200 https://registry.npmjs.org/estree-walker/-/estree-walker-2.0.2.tgz 625ms (cache miss)
+63 http fetch GET 200 https://registry.npmjs.org/@rollup/plugin-terser/-/plugin-terser-0.4.0.tgz 626ms (cache miss)
+64 http fetch GET 200 https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz 619ms (cache miss)
+65 http fetch GET 200 https://registry.npmjs.org/@rollup/plugin-node-resolve/-/plugin-node-resolve-15.0.1.tgz 630ms (cache miss)
+66 http fetch GET 200 https://registry.npmjs.org/@rollup/pluginutils/-/pluginutils-5.0.2.tgz 676ms (cache miss)
+67 http fetch GET 200 https://registry.npmjs.org/@jridgewell/source-map/-/source-map-0.3.2.tgz 676ms (cache miss)
+68 http fetch GET 200 https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.17.tgz 680ms (cache miss)
+69 http fetch GET 200 https://registry.npmjs.org/acorn/-/acorn-8.8.2.tgz 709ms (cache miss)
+70 http fetch GET 200 https://registry.npmjs.org/resolve/-/resolve-1.22.1.tgz 750ms (cache miss)
+71 http fetch GET 200 https://registry.npmjs.org/terser/-/terser-5.16.6.tgz 842ms (cache miss)
+72 http fetch GET 200 https://registry.npmjs.org/rollup/-/rollup-3.20.0.tgz 834ms (cache miss)
+73 silly ADD node_modules/terser
+74 silly ADD node_modules/supports-preserve-symlinks-flag
+75 silly ADD node_modules/source-map-support
+76 silly ADD node_modules/source-map
+77 silly ADD node_modules/smob
+78 silly ADD node_modules/serialize-javascript
+79 silly ADD node_modules/safe-buffer
+80 silly ADD node_modules/rollup
+81 silly ADD node_modules/resolve
+82 silly ADD node_modules/randombytes
+83 silly ADD node_modules/picomatch
+84 silly ADD node_modules/path-parse
+85 silly ADD node_modules/is-module
+86 silly ADD node_modules/is-core-module
+87 silly ADD node_modules/is-builtin-module
+88 silly ADD node_modules/has
+89 silly ADD node_modules/function-bind
+90 silly ADD
+91 silly ADD node_modules/estree-walker
+92 silly ADD node_modules/deepmerge
+93 silly ADD node_modules/commander
+94 silly ADD node_modules/builtin-modules
+95 silly ADD node_modules/buffer-from
+96 silly ADD node_modules/acorn
+97 silly ADD node_modules/@types/resolve
+98 silly ADD node_modules/@types/estree
+99 silly ADD node_modules/@rollup/pluginutils
+100 silly ADD node_modules/@rollup/plugin-terser
+101 silly ADD node_modules/@rollup/plugin-node-resolve
+102 silly ADD node_modules/@jridgewell/trace-mapping
+103 silly ADD node_modules/@jridgewell/sourcemap-codec
+104 silly ADD node_modules/@jridgewell/source-map
+105 silly ADD node_modules/@jridgewell/set-array
+106 silly ADD node_modules/@jridgewell/resolve-uri
+107 silly ADD node_modules/@jridgewell/gen-mapping
+108 verbose cwd /home/pranavjha0002/.npm/_cacache/tmp/git-cloneXXXXXXF91gfJ
+109 verbose os Linux 6.1.85+
+110 verbose node v20.16.0
+111 verbose npm  v10.8.1
+112 verbose exit 0
+113 info ok
